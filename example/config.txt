@@ -1,0 +1,2 @@
+Prefix plugins/Dummy/example/
+Plugin Dummy inputfile etitanic.csv outputfile dummy.csv
